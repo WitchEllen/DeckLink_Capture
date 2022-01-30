@@ -1,0 +1,16 @@
+1 -1 60 1 0
+d0_
+jpeg
+E:\Blackmagic\demo\output\d0
+0 -1 60 1 0
+d1_
+jpeg
+E:\Blackmagic\demo\output\d1
+0 -1 60 1 0
+d2_
+jpeg
+E:\Blackmagic\demo\output\d2
+0 -1 60 1 0
+d3_
+jpeg
+E:\Blackmagic\demo\output\d3
